@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0x5345414E
+- 👀 I’m interested in azure, powershell, python, infosec, linux
+- 🌱 I’m currently learning administrative scripting for powershell, azure and intermediate level penetration testing
+- 💞️ I’m looking to collaborate on anything powershell, python, and open source
+- 📱 I'm on discord @0x5345414E
