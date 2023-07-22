@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @0x5345414E
-- 👀 I’m interested in azure, powershell, python, infosec
-- 🌱 I’m currently learning administrative scripting for powershell, azure and prettyh python heavily.
+- 👋 I’m @0x5345414E
+- 👀 Interested in azure, powershell, python, automation
