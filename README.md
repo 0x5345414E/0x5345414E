@@ -1,2 +1,1 @@
-- 👋 I’m @0x5345414E
-- 👀 Interested in azure, powershell, python, automation
+ azure, powershell, python, automation
