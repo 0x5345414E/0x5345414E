@@ -8,4 +8,4 @@
 
 📚 Studying more advanced Python for Data Engineering and Automation, using platforms like Deepnote, and packages like plotly, pandas, selenium, playwright to name a few.  
 
-🏢 Working to make workflow automations and improvements to impact lives and the healthcare welfare for all.
+🏢 Working to make workflow automations and improvements to impact lives and create a better healthcare experience through technology, software and data science.
