@@ -1,7 +1,5 @@
 👋 Hey, I'm 5345414E or SEAN in ```Hex```  
 
-✖ Follow me on X at https://twitter.com/sean_dev_fl
-
 💻 Interested in Azure, PowerShell, Python, AI, Machine Learning and Automation 
 
 🌲 Climate Enthusiast, Humanitarian and Buddhist.  
