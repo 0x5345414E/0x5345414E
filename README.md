@@ -1,4 +1,7 @@
-#### Hi, I'm 5345414E or SEAN in ```Hex```  
-💻 I am a python, javascript, and automation developer.
+#### 5345414E or SEAN in ```Hex```  
 
-🔥 I am a humanitarian and work making the work life balance and performance of others as optimal as possible.
+💻 python, javascript with both web application and automation focus.
+
+🔥 humanitarian. provide optimization for others to perform at their highest capacity.
+
+🌲 meaningful work and make a positive impact on others around me.
