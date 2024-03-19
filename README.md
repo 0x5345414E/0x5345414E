@@ -1,11 +1,3 @@
-👋 Hey, I'm 5345414E or SEAN in ```Hex```  
-
-💻 Interested in Azure, PowerShell, Python, AI, Machine Learning and Automation 
-
-🌲 Climate Enthusiast, Humanitarian and Buddhist.  
-
-💾 Forced to work in a Windows Environment as a GNU\Linux and BSD Native. (Arch, Void, MidnightBSD are my personal faves 🤓)  
-
-📚 Studying Python for Data Engineering and Automation, using platforms like Deepnote, and libraries like plotly, pandas, selenium, playwright to name a few.  
-
-🏢 Working to make workflow automations and improvements to impact lives and create a better healthcare experience through technology, software and data science.
+#### Hi, I'm 5345414E or SEAN in ```Hex```  
+💻 I am a python, javascript, and automation developer.
+🔥 I am a humanitarian and work making the work life balance and performance of others as optimal as possible.
