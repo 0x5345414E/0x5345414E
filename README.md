@@ -1,4 +1,4 @@
-#### 5345414E or SEAN in ```Hex```  
+#### 5345414E or SEAN in ```Hex => ASCII```  
 
 💻 python, javascript with both web application and automation focus.
 
