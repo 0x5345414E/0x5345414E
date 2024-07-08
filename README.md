@@ -6,6 +6,8 @@
 
 ✨ meaningful work and make a positive impact on others around me.
 
+most of my activity is on Azure Devops :(
+
 ```c#
 using System.Text;
 class Program
