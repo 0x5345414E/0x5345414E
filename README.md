@@ -12,7 +12,7 @@ most of my activity is on Azure Devops :(
 using System.Text;
 class Program
 {
-    static void Main()
+    static void Main(string[] _)
     {
         string name = "SEAN";
         string hexValue = StringToHex(name);
