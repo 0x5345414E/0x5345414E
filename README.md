@@ -2,9 +2,11 @@
 
 💻 c#, asp.net, and python with web application and automation focus.
 
-🤳 humanitarian. provide optimization for others to perform at their highest capacity.
+🤳 provide optimization for others to perform at their highest capacity.
 
-✨ meaningful work and make a positive impact on others around me, learn and teach something new everyday.
+✨ meaningful work, with intention to make a positive impact on others around me, learn and teach something new everyday.
+
+☦️ christ is king.
 
 most of my activity is on Azure Devops :(
 
