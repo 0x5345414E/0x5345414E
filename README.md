@@ -8,7 +8,7 @@
 
 ☦️ christ is king.
 
-most of my activity is on my organizations Azure Devops 🫣
+<sup><i>most of my activity is on my organizations Azure Devops</i> 🫣</sup>
 
 ```c#
 using System.Text;
